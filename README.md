@@ -11,18 +11,12 @@ A basic raycasting engine in C++ using **SFML**, inspired by early 90s shooters 
 * Distance-based wall shading
 * Player movement + rotation
 * FPS counter
-* ESC key exits cleanly
 
 ---
 
 ## 📸 Screenshots & Recordings
 
-You can showcase your game by adding screenshots or short recordings here.
-Example:
-
-![Screenshot](https://github.com/Lakshay309/RAY-CASTER/blob/master/Screenshot%202025-07-30%20184254.png)
-🎥 [Watch Gameplay](https://github.com/Lakshay309/RAY-CASTER/blob/master/Screen%20Recording%202025-07-30%20185032.mp4)
-
+![ScreenRecoding gif](https://github.com/user-attachments/assets/2023c6be-4236-4a7e-8b63-10ee44540cc3)
 ---
 
 ## 🕹 Controls
